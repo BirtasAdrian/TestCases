@@ -2,7 +2,7 @@
 
 Below are some Test Case samples that i wrote in my experience.
 
-..................
+-----------------
 
 **Description:**
 Check if the login works when a person uses a correct user/pass.
