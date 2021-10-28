@@ -37,7 +37,7 @@ User: Adi & Pass:123456 - With correct user and wrong password
 User: Vasile & Pass:123455 - With wrong user and correct password
 
 
------------------
+----------------
 
 **Description:**
 Check if a user profile appear when a person uses a different URL without being connected to the site.
