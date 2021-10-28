@@ -1,1 +1,116 @@
 # TestCases
+
+Below are some Test Case samples that i wrote in my experience.
+
+..................
+
+**Description:**
+Check if the login works when a person uses a correct user/pass.
+
+**Steps to reproduce:**
+1. Go to www.website.com/login
+2. Add a correct user/pass
+3. Press Login button
+
+**Expected result:**
+User should be able to login and is take to his profile page.
+
+**Test data:**
+User: Adi & Pass:123456
+
+
+..................
+
+**Description:**
+Check if the login works when a person uses an incorrect user/pass.
+
+**Steps to reproduce:**
+1. Go to www.website.com/login
+2. Add an incorrect user/pass
+3. Press Login button
+
+**Expected result:**
+User should not be able to login and be taken to his profile page.
+
+**Test data:**
+User: Adi & Pass:123456 - With correct user and wrong password
+User: Vasile & Pass:123455 - With wrong user and correct password
+
+
+..................
+
+**Description:**
+Check if a user profile appear when a person uses a different URL without being connected to the site.
+
+**Steps to reproduce:**
+1. Go to www.website.com/login
+2. Change the URL address from www.website.com/login to www.website.com/Myaccount
+3. Press Enter
+
+**Expected result:**
+Person should not be able to see a user profile.
+
+
+..................
+
+**Description:**
+Use the search bar from the www.emag.ro website to search for random products.
+
+**Steps to reproduce:**
+1. Go to https://www.emag.ro/#opensearch
+2. Write the product name
+3. Press Search button
+
+**Expected result:**
+User should be able to find the product searched on the site.
+
+**Test data:**
+For searches: Laptop, Cameră video, Smartphone, Pat, Dulap, Vopsea, Lustră, Papuci, Cântar, Hrană pentru câini, Mop, Trusă de scule.
+
+
+..................
+
+**Description:**
+Search for a product and after that use the x function in the search bar to delete the produc from the bar.
+
+**Steps to reproduce:**
+1. Go to https://www.emag.ro/#opensearch
+2. Write the product name
+3. Press the Search button
+4. Click on the search bar
+5. Use the x button to delete the product name
+
+**Expected result:**
+User should be able to find the product searched on the site and the x function will delete the product name from the bar for him.
+
+**Test data:**
+For search: Unt President
+
+
+..................
+
+**Description:**
+Verify if the user can successfully pay the products using a valid credit card.
+
+**Steps to reproduce:**
+1. Go to https://www.emag.ro
+2. Log in to the site
+3. Add the products to the cart
+4. Press the Cart button
+5. Select credit card option for payment
+6. Provide the valid credit card details
+7. Pay for products
+
+**Expected result:**
+User should be able to purchase successfully the products using the credit card without any error.
+
+**Test data:**
+User: Adi & Pass:123456
+Cart products: Minge de fotbal, Minge de baschet, Minge de volei
+Credit card details: First Name: Adrian & Last Name:Birtaş
+Credit card number:6456-4564-4556-54XX
+Payment Type: Visa
+Expiration Date: 03/2025
+CVV:551
+
+
