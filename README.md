@@ -33,8 +33,8 @@ Check if the login works when a person uses an incorrect user/pass.
 User should not be able to login and be taken to his profile page.
 
 **Test data:**
-User: Adi & Pass:123456 - With correct user and wrong password
-User: Vasile & Pass:123455 - With wrong user and correct password
+*User: Adi & Pass:123456 - With correct user and wrong password
+*User: Vasile & Pass:123455 - With wrong user and correct password
 
 
 ----------------
