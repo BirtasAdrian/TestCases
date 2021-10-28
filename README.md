@@ -105,12 +105,12 @@ Verify if the user can successfully pay the products using a valid credit card.
 User should be able to purchase successfully the products using the credit card without any error.
 
 **Test data:**
-User: Adi & Pass:123456
-Cart products: Minge de fotbal, Minge de baschet, Minge de volei
-Credit card details: First Name: Adrian & Last Name:Birtaş
-Credit card number:6456-4564-4556-54XX
-Payment Type: Visa
-Expiration Date: 03/2025
-CVV:551
+* User: Adi & Pass:123456
+* Cart products: Minge de fotbal, Minge de baschet, Minge de volei
+* Credit card details: First Name: Adrian & Last Name:Birtaş
+* Credit card number:6456-4564-4556-54XX
+* Payment Type: Visa
+* Expiration Date: 03/2025
+* CVV:551
 
 
