@@ -19,7 +19,7 @@ User should be able to login and is take to his profile page.
 User: Adi & Pass:123456
 
 
-..................
+-----------------
 
 **Description:**
 Check if the login works when a person uses an incorrect user/pass.
@@ -37,7 +37,7 @@ User: Adi & Pass:123456 - With correct user and wrong password
 User: Vasile & Pass:123455 - With wrong user and correct password
 
 
-..................
+-----------------
 
 **Description:**
 Check if a user profile appear when a person uses a different URL without being connected to the site.
@@ -51,7 +51,7 @@ Check if a user profile appear when a person uses a different URL without being 
 Person should not be able to see a user profile.
 
 
-..................
+-----------------
 
 **Description:**
 Use the search bar from the www.emag.ro website to search for random products.
@@ -68,7 +68,7 @@ User should be able to find the product searched on the site.
 For searches: Laptop, Cameră video, Smartphone, Pat, Dulap, Vopsea, Lustră, Papuci, Cântar, Hrană pentru câini, Mop, Trusă de scule.
 
 
-..................
+-----------------
 
 **Description:**
 Search for a product and after that use the x function in the search bar to delete the produc from the bar.
@@ -87,7 +87,7 @@ User should be able to find the product searched on the site and the x function 
 For search: Unt President
 
 
-..................
+-----------------
 
 **Description:**
 Verify if the user can successfully pay the products using a valid credit card.
