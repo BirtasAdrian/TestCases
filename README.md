@@ -13,7 +13,7 @@ Check if the login works when a person uses a correct user/pass.
 3. Press Login button
 
 **Expected result:**
-User should be able to login and is take to his profile page.
+User should be able to login and is taken to his profile page.
 
 **Test data:**
 User: Adi & Pass:123456
