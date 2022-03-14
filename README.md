@@ -120,7 +120,7 @@ As a user I want to access a News on the home page
 
 **Preconditions:**
 
-The user must be on https://ziare.com/
+- The user must be on https://ziare.com/
 
 **Given** the user accesses the website and he is on the home page
 
