@@ -136,5 +136,31 @@ The user must be on https://ziare.com/
 
 **T:** The user is successfully able to read the news
 
+-----------------
+
+As a user I want to delete a picture from my Facebook profile
+
+**Preconditions:**
+
+The user must have an account
+The user must be logged in
+The user must have a picture on his account
+
+**Given** the user is in Pictures section/My Pictures on his profile
+
+**When** the user accesses a picture and click on 3 points and the Delete button
+
+**Then** he will be able to confirm and delete the picture
+
+**Expected results:**
+
+**G:** The user successfully sees his picture
+
+**w:** The user successfully accesses the picture, 3 points section and presses the Delete button
+
+**T:** The user successfully confirms and delete the picture 
+
+- The picture will disappear 
+
 
 
