@@ -113,4 +113,21 @@ User should be able to purchase successfully the products using the credit card 
 * Expiration Date: 03/2025
 * CVV:551
 
+-----------------
+## Gherkin Test Cases
+
+As a user I want to access a News on the home page
+**Preconditions:**
+The user must be on https://ziare.com/
+
+**Given** the user accesses the website and he is on the home page
+**When** the user clicks on a news 
+**Then** the user will be able to read the news
+
+**Expected results:**
+**G:** The user successfully acces the website and he is on the homepage
+**W:** The user successfully click on a news
+**T:** The user is successfully able to read the news
+
+
 
