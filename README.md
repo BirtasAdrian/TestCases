@@ -142,9 +142,9 @@ As a user I want to delete a picture from my Facebook profile
 
 **Preconditions:**
 
-The user must have an account
-The user must be logged in
-The user must have a picture on his account
+- The user must have an account
+- The user must be logged in
+- The user must have a picture on his account
 
 **Given** the user is in Pictures section/My Pictures on his profile
 
