@@ -3,6 +3,7 @@
 Below are some Test Case samples that I wrote from my experience.   
 
 -----------------
+Testing Type : Functional Testing - System testing
 
 **Description:**
 Check if the login works when a person uses a correct user/pass.
@@ -20,6 +21,8 @@ User: Adi & Pass:123456
 
 
 -----------------
+
+Testing Type : Functional Testing - System testing
 
 **Description:**
 Check if the login works when a person uses an incorrect user/pass.
@@ -39,6 +42,8 @@ User should not be able to login and be taken to his profile page.
 
 ----------------
 
+Testing Type : Non-functional Testing - Security
+
 **Description:**
 Check if a user profile appear when a person uses a different URL without being connected to the site.
 
@@ -52,6 +57,7 @@ Person should not be able to see a user profile.
 
 
 -----------------
+Testing Type : Functional Testing - System testing
 
 **Description:**
 Use the search bar from the www.emag.ro website to search for random products.
@@ -69,6 +75,8 @@ For searches: Laptop, Cameră video, Smartphone, Pat, Dulap, Vopsea, Lustră, Pa
 
 
 -----------------
+
+Testing Type : Functional Testing - System testing
 
 **Description:**
 Search for a product and after that use the x function in the search bar to delete the produc from the bar.
@@ -88,6 +96,8 @@ For search: Unt President
 
 
 -----------------
+
+Testing Type : Functional Testing - System testing
 
 **Description:**
 Verify if the user can successfully pay the products using a valid credit card.
@@ -116,6 +126,8 @@ User should be able to purchase successfully the products using the credit card 
 -----------------
 ## Gherkin Test Cases
 
+Testing Type : Functional Testing - System testing
+
 As a user I want to access a News on the home page
 
 **Preconditions:**
@@ -137,6 +149,8 @@ As a user I want to access a News on the home page
 **T:** The user is successfully able to read the news
 
 -----------------
+
+Testing Type : Functional Testing - System testing
 
 As a user I want to delete a picture from my Facebook profile
 
