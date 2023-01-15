@@ -42,7 +42,7 @@ User should not be able to login and be taken to his profile page.
 
 ----------------
 
-Testing Type : Non-functional Testing - Security
+Testing Type : Non-Functional Testing - Security
 
 **Description:**
 Check if a user profile appear when a person uses a different URL without being connected to the site.
